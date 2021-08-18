@@ -1,0 +1,30 @@
+.all{
+    background-color: rgb(20, 106, 134);
+}
+.centered{
+    padding:123px 50px;
+    text-align:center;
+}
+.login{
+    text-align: center;
+    font-family: monospace;
+    background-color: rgb(38, 121, 230);
+}
+
+.box{
+   height: 60px;
+}
+
+.s_btn{
+    text-align: center;
+    margin: 2rem;
+}
+.S{
+    margin: 20px;
+}
+
+.not{
+    font-family:sans-serif;
+    text-align: center;
+    background-color: rgb(114, 114, 172);
+}
